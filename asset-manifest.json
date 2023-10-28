@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tarea2React/static/css/main.2b40cae6.css",
+    "main.js": "/Tarea2React/static/js/main.60e968b5.js",
+    "static/js/787.7a757a4c.chunk.js": "/Tarea2React/static/js/787.7a757a4c.chunk.js",
+    "static/media/logo.svg": "/Tarea2React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tarea2React/index.html",
+    "main.2b40cae6.css.map": "/Tarea2React/static/css/main.2b40cae6.css.map",
+    "main.60e968b5.js.map": "/Tarea2React/static/js/main.60e968b5.js.map",
+    "787.7a757a4c.chunk.js.map": "/Tarea2React/static/js/787.7a757a4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b40cae6.css",
+    "static/js/main.60e968b5.js"
+  ]
+}
