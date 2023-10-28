@@ -1,4 +1,3 @@
-//ffc
 import { Button, Table } from 'react-bootstrap';
 
 function Subjects(props) {

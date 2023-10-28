@@ -20,7 +20,7 @@ class App extends Component {
     elegidos: [],
     total: 0
   }
-  
+
 
   agregar = (mate) => {
     let elegidosTemp = [...this.state.elegidos, mate]
@@ -48,21 +48,21 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header/>
+        <Header />
         <div className="App-body">
-          
-        <Subjects
+
+          <Subjects
             materias={this.state.materias}
             agregar={this.agregar}
             buscar={this.buscar}
             buscar2={this.buscar2}
-        />
+          />
 
-        <Chosen
-          total={this.state.total}
-          elegidos={this.state.elegidos}
-          eliminar={this.eliminar}
-        />
+          <Chosen
+            total={this.state.total}
+            elegidos={this.state.elegidos}
+            eliminar={this.eliminar}
+          />
         </div>
       </div>
     )
